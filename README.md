@@ -1,6 +1,6 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Wireflow Reageren op Werkvormen
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
 
 ## Gebruiker
