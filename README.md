@@ -13,7 +13,7 @@ Als docent wil ik reacties kunnen plaatsen op een werkvorm zodat ik zelf kan aan
 
 ## Wireflow
 <!-- Toon de wireflow -->
-
+<img src="https://user-images.githubusercontent.com/112857131/213047032-497098b3-c765-45e2-a227-b54fea888d45.jpg" width="65%">
  
 
 ## Licentie
